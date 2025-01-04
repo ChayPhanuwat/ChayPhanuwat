@@ -23,4 +23,4 @@ Front-End Developer
 
 ### Badges
 
-<a href="https://github.com/https://github.com/Panuwat370" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Panuwat370&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/https://github.com/ChayPhanuwat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Panuwat370&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
